@@ -3,7 +3,7 @@
 Application TypeScript simple de gestion de tâches (Todo List), avec tests unitaires via Jest.
 
 ## Prérequis
-
+- Git: https://github.com/Sevan-Dev/Evaluation_TMA_.git
 - Node.js (version 18+ recommandée)
 - npm
 
